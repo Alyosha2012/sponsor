@@ -1,0 +1,26 @@
+Створюємо ігрове поле
+
+<link rel="stylesheet" href="style.css">
+
+
+Створюємо змійку
+
+<script src="snake.js"></script>
+
+
+Додаємо управління клавішами
+
+<script src="controls.js"></script>
+
+Додаємо вікно про закінчення гри
+class="end-game"
+
+Додаємо стрічку з результатом нашої гри. 
+class="game-result"
+
+Додаємо кнопку для початку нової гри
+id="new-game-button"
+
+Приховуємо вікно, коли почати нова гра. 
+
+
